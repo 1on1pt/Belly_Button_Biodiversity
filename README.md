@@ -33,7 +33,7 @@ Three visualizations to display reseach results were created:
 3. Gauge Chart
 
 ### Bar Chart
-The bar chart displays the top 10 bacteria cultures found (in descending order) and a hover over a specific bar will display the species of bacteria found.
+The bar chart displays the top 10 bacteria cultures found (in descending order) in a participant's belly button and a hover over a specific bar will display the species of bacteria for that result.
 
 ![top_10_chart](https://user-images.githubusercontent.com/94148420/158081466-b4f4defe-c700-457c-adfe-c489adb74e40.PNG)
 
