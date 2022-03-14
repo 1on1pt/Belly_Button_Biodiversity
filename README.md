@@ -27,7 +27,7 @@ Here is the drop down selector that a participant would use to find a summary of
 
 ![test_subject_id_selector](https://user-images.githubusercontent.com/94148420/158081086-2c71714e-96df-4f7e-ae89-21f8fea40425.PNG)
 
-Three visualizations to display reseach results were created:
+Three visualizations to display the research results was created:
 1. Bar Chart
 2. Bubble Chart
 3. Gauge Chart
