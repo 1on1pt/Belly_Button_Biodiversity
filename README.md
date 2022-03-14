@@ -59,3 +59,6 @@ The Belly Button Biodiversity Dashboard was customized with the folloing:
 
 
 ## Summary
+Here is an image of the final dashboard:
+
+![dashboard_final](https://user-images.githubusercontent.com/94148420/158089679-afe7b397-fa4e-4310-a032-469aa07545f6.PNG)
