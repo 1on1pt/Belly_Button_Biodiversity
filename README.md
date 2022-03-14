@@ -32,10 +32,28 @@ Three visualizations to display reseach results were created:
 2. Bubble Chart
 3. Gauge Chart
 
-### Bar Chart
+### Deliverable 1 - Bar Chart
 The bar chart displays the top 10 bacteria cultures found (in descending order) in a participant's belly button and a hover over a specific bar will display the species of bacteria for that result.
 
 ![top_10_chart](https://user-images.githubusercontent.com/94148420/158081466-b4f4defe-c700-457c-adfe-c489adb74e40.PNG)
+
+### Deliverable 2 - Bubble Chart
+The bubble chart shows the bacteria cultures per sample.  The larger the bubble the larger the sample size.
+
+![bacteria_samples_per_culture](https://user-images.githubusercontent.com/94148420/158088558-593a6004-b777-4024-b930-e36f82a42af0.PNG)
+
+### Deliverable 3 - Gauge Chart
+The gauge chart displays the participant's belly button washing frequency based on scrubs per week.
+
+![wash_freq_gauge_chart](https://user-images.githubusercontent.com/94148420/158088738-3001f339-7aca-45c5-a8e1-1be6c6b53888.PNG)
+
+### Deliverable 4 - Customize the Dashboard
+The Belly Button Biodiversity Dashboard was customized with the folloing:
+1. An image was added to the jumbotron - bacteria image.
+2. Background color was added to the webpage - plum.
+3. Bolded font was added to the jumbotron and chart headers.
+4. The layout of the **Top 10 Bacteria Cultures Found** bar chart and **Belly Button Washing Frequency** guage chart was resized to create more space between the charts.
+5. 
 
 
 
