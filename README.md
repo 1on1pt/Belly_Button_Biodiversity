@@ -53,7 +53,7 @@ The Belly Button Biodiversity Dashboard was customized with the folloing:
 2. Background color was added to the webpage - plum.
 3. Bolded font was added to the jumbotron and chart headers.
 4. The layout of the **Top 10 Bacteria Cultures Found** bar chart and **Belly Button Washing Frequency** guage chart was resized to create more space between the charts.
-5. 
+5. Finally, the webpage is accessed by clicking 
 
 
 
