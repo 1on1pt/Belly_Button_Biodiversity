@@ -51,7 +51,7 @@ The gauge chart displays the participant's belly button washing frequency based 
 The Belly Button Biodiversity Dashboard was customized with the folloing:
 1. An image was added to the jumbotron - bacteria image.
 2. Background color was added to the webpage - plum.
-3. Bolded font was added to the jumbotron and chart headers.
+3. Bolded font was added to the jumbotron and chart headers; the jumbotron font was changed to white for enhanced clarity against the purple-toned image.
 4. The layout of the **Top 10 Bacteria Cultures Found** bar chart and **Belly Button Washing Frequency** guage chart was resized to create more space between the charts.
 5. Finally, the webpage is accessed by clicking https://1on1pt.github.io/Belly_Button_Biodiversity/
 
